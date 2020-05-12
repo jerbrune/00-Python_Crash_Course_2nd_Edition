@@ -3,5 +3,6 @@
 
 ### Chap 9 Class
 #### **Folder  --> Exemples**  
-    - *reprise des exemples du chapitre*
-#### **Folder --> Exercices**  _exercices du cours_ 
+    - reprise des exemples du chapitre
+#### **Folder --> Exercices**  
+    - exercices du cours
